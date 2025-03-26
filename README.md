@@ -17,4 +17,4 @@ By visualizing this data, we can evaluate how closely each DJ's set adheres to t
 
 <h2>Data Visualization</h2>
 
-![Airbnb Dashboard](https://raw.githubusercontent.com/rm1367/Airbnb-Price-Study/main/images/Dashboard%201.png)
+![DJ Dashboard](https://github.com/rm1367/Analyzing-DJ-Set-Flow-and-Music-Diversity/blob/main/images/Dashboard%201%20(2).png)
